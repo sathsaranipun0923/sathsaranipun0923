@@ -30,8 +30,8 @@
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=sathsaranipun0923&show_icons=true&theme=react&hide_border=true" width="48%" />
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathsaranipun0923&theme=react&hide_border=true" width="48%" />
+<!-- GitHub Activity -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sathsaranipun0923&bg_color=ffffff&color=6e4a7e&line=6e4a7e&point=6e4a7e&area=true&hide_border=true)
 
 ---
 
