@@ -7,7 +7,7 @@
 
 🎓 Computer Science with Artificial Intelligence Student @ University of Chester  
 🌐 Based in **Sri Lanka 🇱🇰** | Studying in the **UK 🇬🇧**  
-💼 **Graphic Designer & Computer Assistent**   
+💼 **Graphic Designer|Web Desiner|Web Developer**   
 💡 Passionate about **Software Development**, **Web**, and **Artificial Intelligence**  
 🎯 Always exploring & building smart tech solutions for real-world problems
 
