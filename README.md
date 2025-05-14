@@ -27,10 +27,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathsaranipun0923&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathsaranipun0923&theme=react&hide_border=true" width="48%" />
-</div>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sathsaranipun0923&show_icons=true&theme=react&hide_border=true" width="48%" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathsaranipun0923&theme=react&hide_border=true" width="48%" />
 
 ---
 
