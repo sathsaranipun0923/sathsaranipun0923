@@ -28,12 +28,11 @@
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sathsaranipun0923&show_icons=true&theme=react&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sathsaranipun0923&show_icons=true&theme=react&hide_border=true" width="100%" />
 
-<!-- GitHub Activity -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sathsaranipun0923&bg_color=ffffff&color=6e4a7e&line=6e4a7e&point=6e4a7e&area=true&hide_border=true)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathsaranipun0923&layout=compact&theme=react&hide_border=true" width="100%" />
 
----
 
 ## 📫 Connect with Me
 
