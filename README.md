@@ -1,25 +1,24 @@
 # Hi there 👋, I’m Sathsara Nipun Chanuka!
 ## A passionate Software Developer | AI & Data Science Enthusiast | Web & Mobile Apps Builder
 
-![Sathsara Nipun Chanuka](https://photos.fife.usercontent.google.com/pw/AP1GczOq_D-1Ncby9GRA6V5iwP883oykhHrqI-75bOW8tKbjEYHd1tCUFqZf=w579-h869-s-no-gm?authuser=0)
 
 ---
 
 ### About Me
 
- I’m currently working on building scalable web applications and exploring AI-powered solutions.
+I’m currently working on building scalable web applications and exploring AI-powered solutions.
 
- I’m learning advanced React, TypeScript, and Deep Learning.
+I’m learning advanced React, TypeScript, and Deep Learning.
 
- I’m open to collaborating on open source projects and freelance gigs.
+I’m open to collaborating on open source projects and freelance gigs.
 
-📫 How to reach me:  
-- Email: sathsara.nipun@example.com  
+ How to reach me:  
+- Email: sathsarapipun0923@gmail.com  
 - Facebook: [facebook.com/sathsara.nipun.58](https://web.facebook.com/sathsara.nipun.58)  
-- LinkedIn: [linkedin.com/in/sathsara-nipun]([https://linkedin.com/in/sathsara-nipun](https://www.linkedin.com/in/sathsara-nipun-9710b3217/)) 
-- WhatsApp: [+94 77 123 4567](https://wa.me/94702296209) 
+- LinkedIn: [linkedin.com/in/sathsara-nipun-9710b3217](https://www.linkedin.com/in/sathsara-nipun-9710b3217/)  
+- WhatsApp: [+94 70 229 6209](https://wa.me/94702296209)
 
- Technologies I use: Python, JavaScript, React, Node.js, C#, Docker, AWS
+Technologies I use: Python, JavaScript, React, Node.js, C#, Docker, AWS
 
 ---
 
@@ -38,15 +37,16 @@
 
 ---
 
+
 ###  GitHub Stats
 
-![Sathsara's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Sathsara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathsaranipun0923&show_icons=true&theme=radical)
 
 ---
 
 ###  GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![trophies](https://github-profile-trophy.vercel.app/?username=sathsaranipun0923&theme=radical)
 
 ---
 
